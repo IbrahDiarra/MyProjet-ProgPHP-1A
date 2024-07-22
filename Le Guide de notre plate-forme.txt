@@ -1,0 +1,39 @@
+Le Guide de notre plate-forme
+
+*Les Membres du Projet
+
+-DIARRASSOUBA Ibrahim
+-MAIGA Abdoul Dramane
+
+*Nous avons trois fichiers de configuration pour la connexion à la base de donnée
+     -code/connect.php
+     -code/users/connect.php
+     -code/admin/connect.php
+
+
+*Dans la page d'accueil le bouton admin redirige vers login adminstrateur
+
+email : imacertif@gmail.com
+password : admin123
+
+*Et après il sera redirigé vers dashbord administrateur
+
+
+*Le bouton login permet à un étudiant de se connecter ou créer un compte
+
+*Les étudiants dans notre base de donnée
+
+1)
+matricule : 22INP00100
+password: 4588
+
+2)
+matricule : 22INP00102
+password: 1234
+
+3)
+matricule : 21INP00200
+password: 458855
+
+*Une fois connecter pourra participer à un test
+*le bouton participer à un test redirige l'étudiant sa page de test..
